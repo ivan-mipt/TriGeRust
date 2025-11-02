@@ -1,0 +1,10 @@
+[package]
+name = "tri_ge_rust"
+version = "0.1.0"
+edition = "2024"
+readme = "README.md"
+description = "Lightweight library for fast calculating and creating 2D and 3D shapes"
+authors = ["Elegant Script"]
+license = "MIT"
+
+[dependencies]
