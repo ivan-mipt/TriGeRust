@@ -1,6 +1,7 @@
 # TriGeRust
 
 Lightweight Rust library for fast geometric calculations and abstract 2D/3D shape modeling.
+![Downloads](https://img.shields.io/crates/d/tri_ge_rust)
 
 ## Usage
 Add to your `Cargo.toml`:
@@ -22,3 +23,4 @@ println!("Volume: {}", cuboid.volume());
 ```
 ## About feedback
 I will be excited, if you send feedback about this library on feedback! Please, report bugs and come up with your greatful ideas!
+> **14+ developers already use this crate!**
